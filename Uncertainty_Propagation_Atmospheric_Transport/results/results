@@ -1,0 +1,17 @@
+stateIndx,feature,MC_mean, MC_std, STGP_mean, STGP_std
+ $5$& $7.76$ & $0.19$& $7.83$ & $0.13$& $2.61$ & $0.23$& $7.74$ & $0.19$& $7.89$ & $0.14$& $2.59$ & $0.16$\\ \hline
+ $10$& $9.52$ & $0.26$& $9.67$ & $0.18$& $5.19$ & $0.29$& $9.47$ & $0.27$& $9.76$ & $0.2$& $5.17$ & $0.24$\\ \hline
+ $15$& $11.3$ & $0.32$& $11.5$ & $0.22$& $7.74$ & $0.34$& $11.22$ & $0.33$& $11.59$ & $0.24$& $7.72$ & $0.29$\\ \hline
+ $20$& $13.09$ & $0.37$& $13.33$ & $0.26$& $10.26$ & $0.39$& $12.95$ & $0.38$& $13.38$ & $0.28$& $10.25$ & $0.33$\\ \hline
+\includegraphics[scale=0.35]{../results/5_X_}
+\includegraphics[scale=0.35]{../results/5_Y_}
+\includegraphics[scale=0.35]{../results/5_Down_wind_}
+\includegraphics[scale=0.35]{../results/10_X_}
+\includegraphics[scale=0.35]{../results/10_Y_}
+\includegraphics[scale=0.35]{../results/10_Down_wind_}
+\includegraphics[scale=0.35]{../results/15_X_}
+\includegraphics[scale=0.35]{../results/15_Y_}
+\includegraphics[scale=0.35]{../results/15_Down_wind_}
+\includegraphics[scale=0.35]{../results/20_X_}
+\includegraphics[scale=0.35]{../results/20_Y_}
+\includegraphics[scale=0.35]{../results/20_Down_wind_}
